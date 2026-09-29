@@ -1,4 +1,4 @@
-# AI Engineer Take-Home Challenge: RAG sugli Avengers
+# AI Engineer Take-Home Challenge
 
 ## Scenario: Operazione A.V.E.N.G.E.R.
 
@@ -11,6 +11,8 @@ Il tuo compito è costruire il nuovo assistente dell'archivio. Il sistema dovrà
 La precisione è fondamentale: una risposta inventata sui punti deboli di un alleato potrebbe compromettere una missione. Se l'archivio non contiene la risposta, l'assistente deve ammetterlo chiaramente. Fury preferisce un onesto «informazione non disponibile» a un'allucinazione pronunciata con sicurezza.
 
 Hai sette giorni prima che il sistema venga presentato agli Avengers. Tony Stark non ha imposto uno stack tecnologico — sorprendentemente — quindi puoi scegliere gli strumenti con cui lavori meglio. Quello che conta è che la soluzione funzioni, sia verificabile e possa essere spiegata alla squadra tecnica.
+
+![alt text](Avengers-Logo.png)
 
 ## Obiettivo
 
