@@ -12,7 +12,9 @@ La precisione è fondamentale: una risposta inventata sui punti deboli di un all
 
 Hai sette giorni prima che il sistema venga presentato agli Avengers. Tony Stark non ha imposto uno stack tecnologico — sorprendentemente — quindi puoi scegliere gli strumenti con cui lavori meglio. Quello che conta è che la soluzione funzioni, sia verificabile e possa essere spiegata alla squadra tecnica.
 
-![alt text](Avengers-Logo.png)
+<p align="center">
+  <img src="Avengers-Logo.png" alt="Avengers logo">
+</p>
 
 ## Obiettivo
 
@@ -156,4 +158,3 @@ L'email di consegna deve contenere almeno:
 - nome e cognome del candidato;
 - collegamento al repository o al pacchetto del progetto;
 - eventuali istruzioni aggiuntive necessarie per l'avvio;
-
